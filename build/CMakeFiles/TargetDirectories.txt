@@ -1,0 +1,3 @@
+/Users/gelzonexunsas/Desktop/git_dir/FABRIK/build/CMakeFiles/lab8.dir
+/Users/gelzonexunsas/Desktop/git_dir/FABRIK/build/CMakeFiles/ALL_BUILD.dir
+/Users/gelzonexunsas/Desktop/git_dir/FABRIK/build/CMakeFiles/ZERO_CHECK.dir
